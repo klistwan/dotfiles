@@ -2,6 +2,22 @@
 
 🏡 There's no place like ~/
 
+### Installation
+
+1. Install Just:
+
+```zsh
+brew install just
+```
+
+2. Create symbolic links.
+
+```zsh
+$ just link
+ln -s -f $PWD/zsh/.zshrc $HOME/.zshrc
+ln -s -f $PWD/git/.gitconfig $HOME/.gitconfig
+```
+
 ### Acknowledgements
 
 Inspiration and code was taken from many sources, including:
