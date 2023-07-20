@@ -1,0 +1,16 @@
+[user]
+	name = Konrad Listwan-Ciesielski
+	email = konrad.listwan@gmail.com
+
+[core]
+	ignorecase = false
+
+[init]
+	defaultBranch = main
+
+[commit]
+	verbose = true
+
+[push]
+	autoSetupRemote = true
+	default = current
