@@ -7,7 +7,7 @@
 1. Install Just:
 
 ```zsh
-brew install just
+$ brew install just
 ```
 
 2. Create symbolic links.
