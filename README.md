@@ -1,4 +1,4 @@
-# dotfiles ![Platform: macOS](https://img.shields.io/badge/Platform-macOS-lightgrey) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE.txt)
+# dotfiles ![Platform: macOS](https://img.shields.io/badge/Platform-macOS-lightgrey) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 🏡 There's no place like ~/
 
