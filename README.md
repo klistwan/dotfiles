@@ -4,13 +4,19 @@
 
 ### Installation
 
-1. Install Just:
+1. Install [`just`](https://github.com/casey/just)
 
 ```zsh
 $ brew install just
 ```
 
-2. Create symbolic links.
+2. Install commonly used packages (e.g. `lsd`, `pre-commit`) via Homebrew:
+
+```zsh
+$ just install
+```
+
+3. Create symbolic links.
 
 ```zsh
 $ just link
