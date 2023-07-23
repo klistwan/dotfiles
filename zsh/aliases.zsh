@@ -1,1 +1,1 @@
-alias ls="lsd --long -F --group-directories-first"
+alias ls="lsd --almost-all --long --classify --group-directories-first"
