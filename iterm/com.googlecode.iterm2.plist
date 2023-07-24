@@ -219,11 +219,19 @@
 	</dict>
 	<key>Default Bookmark Guid</key>
 	<string>E8BE0E8E-08A7-4750-A5C4-28853DB6CAF0</string>
+	<key>DisableFullscreenTransparency</key>
+	<false/>
+	<key>EnableDivisionView</key>
+	<true/>
+	<key>EnableProxyIcon</key>
+	<false/>
 	<key>FlashTabBarInFullscreen</key>
 	<false/>
 	<key>HapticFeedbackForEsc</key>
 	<false/>
 	<key>HideMenuBarInFullscreen</key>
+	<false/>
+	<key>HideScrollbar</key>
 	<false/>
 	<key>HideTab</key>
 	<true/>
@@ -959,6 +967,8 @@
 	<false/>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
+	<key>WindowNumber</key>
+	<true/>
 	<key>findMode_iTerm</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewPreferredModeKey</key>
