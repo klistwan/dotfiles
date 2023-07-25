@@ -1,6 +1,7 @@
 install:
     brew install lsd
     brew install pre-commit
+    brew install the_silver_searcher
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 link:
