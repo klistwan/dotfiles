@@ -4,6 +4,7 @@
 
 [core]
 	ignorecase = false
+	editor = emacs
 
 [init]
 	defaultBranch = main
