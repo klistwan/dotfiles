@@ -2,7 +2,11 @@ install:
     brew install lsd
     brew install pre-commit
     brew install the_silver_searcher
+    brew install pipx
+    brew install yt-dlp
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+    pipx install black
+    pipx install ruff
 
 link:
     ln -s -f $PWD/git/.gitconfig $HOME/.gitconfig
