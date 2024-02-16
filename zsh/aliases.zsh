@@ -1,3 +1,5 @@
 alias ls="lsd --almost-all --header --long --classify --group-directories-first"
 alias gdss="git diff --shortstat"
 alias dl-audio="yt-dlp --extract-audio --audio-format mp3"
+alias autotest="cserun '6991 autotest'"
+alias give-crate="cserun '6991 autotest'"
